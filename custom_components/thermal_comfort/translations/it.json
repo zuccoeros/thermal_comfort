@@ -102,8 +102,8 @@
           "comfortable": "Confortevole",
           "slight_discomfort": "Disagio leggero",
           "discomfort": "Disagio",
-          "significant_discomfort": "Disagio significativo",
-          "extreme_discomfort": "Disagio estremo"
+          "significant_discomfort": "Significativo disagio ",
+          "extreme_discomfort": "Estremo disagio"
         }
       },
       "summer_scharlau_perception": {
