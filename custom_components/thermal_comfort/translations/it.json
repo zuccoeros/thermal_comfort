@@ -79,10 +79,10 @@
         "name": "Indice di calore"
       },
       "humidex": {
-        "name": "Humidex"
+        "name": "Temperatura percepita"
       },
       "humidex_perception": {
-        "name": "Percezione dell'humidex",
+        "name": "Benessere percepito",
         "state": {
           "comfortable": "Confortevole",
           "noticable_discomfort": "Disagio",
