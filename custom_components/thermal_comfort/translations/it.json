@@ -10,8 +10,8 @@
         "data": {
           "temperature_sensor": "Sensore di temperatura",
           "humidity_sensor": "Sensore di umidità",
-          "poll": "Abilita polling",
-          "scan_interval": "Intervallo di polling (secondi)",
+          "poll": "Abilita interrogazione sensore",
+          "scan_interval": "Intervallo di interrogazione (secondi)",
           "custom_icons": "Usa il pacchetto di icone personalizzate"
         }
       }
